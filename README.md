@@ -3,4 +3,4 @@ sample
 
 
 Hi all
-I am learning machine learning and trying for developing projects on big data.
+I am learning big data anlytics and trying for developing projects on big data.
